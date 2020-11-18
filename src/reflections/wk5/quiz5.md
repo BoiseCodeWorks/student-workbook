@@ -30,7 +30,7 @@
 ```
 
 ```
-<!-- NOTE Does this need to be updated to importing? -->
+<!-- REVIEW Does this need to be updated to importing? -->
 **7.** Fill in the missing piece of this snippet of code.
 ```js
 let mongoose = require ('______'); let Schema = ________.Schema;

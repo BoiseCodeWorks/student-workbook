@@ -5,48 +5,51 @@
 ```
 
 ```
-**2.** What is Encapsulation?
-<!-- enter you answer in the space below -->
-```
-
-```
-**3.** What does the S stand for in the `SOLID` principles?
-<!-- enter you answer in the space below -->
-```
-
-```
-**4.** What is an object in JavaScript?
-<!-- enter you answer in the space below -->
-```
-
-```
-**5.** When an application runs `synchronously`, that means it runs top to bottom performing one action at a time.  if an action takes awhile to complete, your code execution will be on hold until the process completes and the application can continue. `True` or `False`?
-<!-- enter you answer in the space below -->
-```
-
-```
-**6.** What is the job of the `Controller` in the `MVC`?
-<!-- enter you answer in the space below -->
-```
-
-```
-**7.** `MCV` pattern, or the model view controller pattern is an approach that allows you to separate concerns when building out your application? `True` or `False`?
-<!-- enter you answer in the space below -->
-```
-
-```
-**8.** How would you access the `name` of the below object when writing code?
+**2.** How would you access the `name` of the below object using the `property` variable?
 ```js
 let staff = {
   name: "Tim",
   age: 26,
   job: "Code Monkey"
   }
+let property = 'name'
 ```
 <!-- enter you answer in the space below -->
 ```
 
 ```
+**3.** What is Encapsulation?
+<!-- enter you answer in the space below -->
+```
+
+```
+**4.** What does the S stand for in the `SOLID` principles?
+<!-- enter you answer in the space below -->
+```
+
+```
+**5.** What the difference between a `class` and an instance of a `class`?
+<!-- enter you answer in the space below -->
+```
+
+```
+**6.** What is a `Proxy` object?
+<!-- enter you answer in the space below -->
+```
+
+```
+
+**7.** What is the purpose of the `MVC` pattern?
+<!-- enter you answer in the space below -->
+```
+
+```
+**8.** What is the job of the `Controller` in the `MVC` Pattern?
+<!-- enter you answer in the space below -->
+```
+
+```
+
 **9.** What is the job of the `Service` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
@@ -57,13 +60,4 @@ let staff = {
 ```
 
 ```
-**11.** What is a Document Object Model (`DOM`) do?
-<!-- enter you answer in the space below -->
-```
 
-```
-**12.** What is a 500 error?
-<!-- enter you answer in the space below -->
-```
-
-```

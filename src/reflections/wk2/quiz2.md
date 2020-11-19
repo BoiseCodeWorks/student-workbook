@@ -10,22 +10,26 @@
 ```
 
 ```
-**3.** What is the purpose of the `SOLID` principles?
+**3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**4.** Given this array: `fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']`.  What index is the pineapple's current position?
+**4.** Given this array: 
+```js
+let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
+``` 
+What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
 
 ```
 **5.** With these two objects: 
 ```js
-let you = {name:"You", hair: true, friends:[]}
-let them = {name:"Them",hair:false, friends:[]}
+let you = { name:"You", hair: true, friends: [] }
+let them = { name:"Them", hair: false, friends: [] }
 ```
-how would you .push `them` into the `you` object's array of friends?
+how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
 
@@ -36,22 +40,22 @@ how would you .push `them` into the `you` object's array of friends?
 ```
 
 ```
-**7.** In the for () loop below, what piece belongs inside the empty "______" space?
+**7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
 ```js
-for (let i = 0; i < arr.length; _______) {
+for ( let i = 0; i < arr.length; _______ ) {
   //...
 ```
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**8.** Define the `DOM`:
+**8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
 
 ```
 
-**9.** What are the `6` valid data types?
+**9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
 

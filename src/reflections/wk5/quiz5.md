@@ -1,6 +1,6 @@
 # Intro to Server side concerns with JavaScript
 
-**1.** In the abbreviation `CRUD`, what does each letter stand for?
+**1.** What do the letters of the acronym `CRUD` stand for?
 <!-- enter you answer in the space below -->
 ```
 
@@ -10,17 +10,17 @@
 ```
 
 ```
-**3.** What does `ORM` mean?
+**3.** What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**4.** With the HTTP `GET`, keep in mind that it should never be used to ______ or ______ information. Fill in the blanks.
+**4.** Which two `HTTP` request types include a body?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**5.** In a/an _______ programming model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes? Likewise in a/an _______ programming model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
+**5.** In a/an _______ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an _______ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
 <!-- enter you answer in the space below -->
 ```
 

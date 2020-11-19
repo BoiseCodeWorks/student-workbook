@@ -6,7 +6,11 @@
 
 ```
 
+<<<<<<< HEAD
 **2.** In the terminal, what is the command `mkdir` used for?
+=======
+**2.** In the terminal, what is the command 'mkdir' used for?
+>>>>>>> 97bc525da81737dfe8439b51a401c01689ee8613
 <!-- enter you answer in the space below -->
 ```
 

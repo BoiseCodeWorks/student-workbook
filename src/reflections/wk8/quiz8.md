@@ -25,12 +25,12 @@
 ```
 
 ```
-**6.** How do you update an app already deplyed on Heroku?
+**6.** How do you update an app already deployed on Heroku?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**7.** Enviroment variables help programs know what ______ to install files in, where to store _____ files, and where to find user ______ settings. Fill in the blanks.
+**7.** Environment variables help programs know what ______ to install files in, where to store _____ files, and where to find user ______ settings. Fill in the blanks.
 <!-- enter you answer in the space below -->
 ```
 

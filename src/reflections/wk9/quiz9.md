@@ -5,22 +5,22 @@
 ```
 
 ```
-**2.** What is the Singleton design pattern?
+**2.** What is the `Singleton` design pattern?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**3.** What is the Observer design pattern?
+**3.** What is the `Observer` design pattern?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**4.** What is the Strategy design pattern?
+**4.** What is the `Strategy` design pattern?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**5.** What is the Factory design pattern?
+**5.** What is the `Factory` design pattern?
 <!-- enter you answer in the space below -->
 ```
 
@@ -45,7 +45,7 @@
 ```
 
 ```
-**10.** In which of thes ceremonies are Tasks assigned to you?
+**10.** In which of these ceremonies are Tasks assigned to you?
 <!-- enter you answer in the space below -->
 ```
 

@@ -10,7 +10,7 @@
 ```
 
 ```
-**3.** Whate does the S stand for in the SOLID principles?
+**3.** What does the S stand for in the SOLID principles?
 <!-- enter you answer in the space below -->
 ```
 
@@ -20,22 +20,22 @@
 ```
 
 ```
-**5.** When an application runs synchronously, that means it runs top to bottom performing one action at a time.  if an action takes awhile to complete, your code execution will be on hold until the proccess completes and the apllication can continue. True or False?
+**5.** When an application runs `synchronously`, that means it runs top to bottom performing one action at a time.  if an action takes awhile to complete, your code execution will be on hold until the process completes and the application can continue. `True` or `False`?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**6.** What is the job of the Controller in the MVC?
+**6.** What is the job of the `Controller` in the MVC?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**7.** MCV patter, or model vuew controller pattern is an approach that allows you to separate concerns when architectin you application? True or False?
+**7.** MCV pattern, or the model view controller pattern is an approach that allows you to separate concerns when building out your application? `True` or `False`?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**8.** How would you access the name of the bellow object when writing code?
+**8.** How would you access the `name` of the below object when writing code?
 ```js
 let staff = {
   name: "Tim",
@@ -47,17 +47,17 @@ let staff = {
 ```
 
 ```
-**9.** What is the job of the Service in MVC?
+**9.** What is the job of the `Service` in MVC?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**10.** What is the job of the Model in MVC?
+**10.** What is the job of the `Model` in MVC?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**11.** What is a Document Object Model (DOM) do?
+**11.** What is a Document Object Model (`DOM`) do?
 <!-- enter you answer in the space below -->
 ```
 

@@ -1,4 +1,4 @@
-# Understanding Persisten Relational Data
+# Understanding Persistent Relational Data
 
 **1.** When you create a Vue project, what is the command in your terminal?
 <!-- enter you answer in the space below -->
@@ -15,7 +15,7 @@
 ```
 
 ```
-**4.** the \<template>\</template> tags inside a Component in your Vue project have _____ children tags.  Fill in the Blank.
+**4.** the `\<template>\</template>` tags inside a Component in your Vue project have _____ children tags.  Fill in the Blank.
 <!-- enter you answer in the space below -->
 ```
 
@@ -31,13 +31,13 @@
 
 ```
 <!-- REVIEW is this a good appstate question -->
-**7.** What is the difference between the AppState and the state object within a component?
+**7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
 ```
 
 ```
 <!-- REVIEW this was a question about the vuex mutations -->
-**9.** What is the purpose of using **Services** in our Vue projects?
+**9.** What is the purpose of using `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
 ```
 
@@ -53,7 +53,7 @@
 
 ```
 <!-- REVIEW asked for name of design pattern for vuex -->
-**12.** What is the name of the design pattern used to watch for changes on our AppState?
+**12.** What is the name of the design pattern used to watch for changes on our `AppState`?
 <!-- enter you answer in the space below -->
 ```
 

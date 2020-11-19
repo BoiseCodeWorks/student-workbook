@@ -12,7 +12,7 @@
 ```
 
 ```
-**3.** How do you create an instace of a class in C#?
+**3.** How do you create an instance of a class in C#?
 <!-- enter you answer in the space below -->
 ```
 

@@ -1,24 +1,24 @@
 # Foundations of Web Development
 
-**1.** In the terminal, what is the command 'cd' used for?
+**1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
 ```
 
 ```
 
-**2.**In the terminal, what is the command 'mkdir' used for?
+**2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
 ```
 
 ```
 
-**3.** What is the \<html>\</html> tag in a documenet?
+**3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
 
 ```
 
-**4.**What does HTML stand for?
+**4.** What does HTML stand for?
 <!-- enter you answer in the space below -->
 ```
 
@@ -30,7 +30,7 @@
 
 ```
 
-**6.** What are the three components that makeup a CSS rule? Example- hi.main-title{color : rgba(255,210,33,.75)}
+**6.** What are the three components that makeup a CSS rule? <br> Example: `h1.main-title{color : rgba(255,210,33,.75)}`
 <!-- enter you answer in the space below -->
 ```
 
@@ -54,7 +54,7 @@
 
 ```
 
-**10.** Define the display :flex property:
+**10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
 

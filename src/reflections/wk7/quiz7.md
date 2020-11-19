@@ -11,29 +11,29 @@
 ```
 
 ```
-**3.** What is the DOM?
+**3.** What is the `DOM`?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**4.** The SPA acronym stands for what?
+**4.** The `SPA` acronym stands for what?
 <!-- enter you answer in the space below -->
 ```
 
 ```
 <!-- REVIEW true/false definition one -->
-**5.** TWhat are some of the advantages/uses of a SPA over a traditional one?
+**5.** TWhat are some of the advantages/uses of a `SPA` over a traditional one?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**6.** What does the onMounted method in Vue do?
+**6.** What does the `onMounted` method in Vue do?
 <!-- enter you answer in the space below -->
 ```
 
 ```
 <!-- REVIEW altered a little cause it basically matched a question from last weeks quiz -->
-**7.** The App.vue file in your Vue project is the entry point for the JavaScript in your App. True or False
+**7.** The `App.vue` file in your Vue project is the entry point for the JavaScript in your App. `True` or `False`?
 <!-- enter you answer in the space below -->
 ```
 
@@ -43,7 +43,7 @@
 ```
 
 ```
-**9.** The v:on (@) directive, such as in v:on-click (@click), listens to DOM events, In this case, it would be the click even on that specific element. True or False.
+**9.** The `v:on` (`@`) directive, such as in `v:on-click` (`@click`), listens to `DOM` events, In this case, it would be the click even on that specific element. `True` or `False`.
 <!-- enter you answer in the space below -->
 ```
 
@@ -54,7 +54,7 @@
 ```
 
 ```
-**11.** When used together with v-if, v-for takes higher priority than the v-if. True or False.
+**11.** When used together with `v-if`, `v-for` takes higher priority than the `v-if`. `True` or `False`.
 <!-- enter you answer in the space below -->
 ```
 

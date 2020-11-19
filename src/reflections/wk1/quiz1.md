@@ -6,7 +6,7 @@
 
 ```
 
-**2.**In the terminal, what is the command 'mkdir' used for?
+**2.** In the terminal, what is the command 'mkdir' used for?
 <!-- enter you answer in the space below -->
 ```
 
@@ -18,7 +18,7 @@
 
 ```
 
-**4.**What does HTML stand for?
+**4.** What does HTML stand for?
 <!-- enter you answer in the space below -->
 ```
 

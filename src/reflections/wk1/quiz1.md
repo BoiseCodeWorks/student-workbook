@@ -18,19 +18,19 @@
 
 ```
 
-**4.** What does HTML stand for?
+**4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
 
 ```
 
-**5.** What Does CSS stand for?
+**5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
 
 ```
 
-**6.** What are the three components that makeup a CSS rule? <br> Example: `h1.main-title{color : rgba(255,210,33,.75)}`
+**6.** What are the three components that makeup a `CSS` rule? <br> Example: `h1.main-title{color : rgba(255,210,33,.75)}`
 <!-- enter you answer in the space below -->
 ```
 
@@ -60,7 +60,7 @@
 
 ```
 
-**11.** What CSS properties affect the size of a box model?
+**11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
 

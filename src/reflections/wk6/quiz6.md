@@ -20,7 +20,7 @@
 ```
 
 ```
-**5.** Which SOLID principle state that every sub class can be used in place of its super/base class?
+**5.** Which `SOLID` principle state that every sub class can be used in place of its super/base class?
 <!-- enter you answer in the space below -->
 ```
 

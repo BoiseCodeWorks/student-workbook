@@ -1,6 +1,6 @@
 # Advanced Front-End Frameworks
 
-**1.** What is the Observer Pattern?
+**1.** What is the `Observer` Pattern?
 <!-- enter you answer in the space below -->
 ```
 
@@ -38,7 +38,7 @@
 ```
 
 ```
-**8.** What is the v-model attribute in Vue for, and when might you use it?
+**8.** What is the `v-model` attribute in Vue for, and when might you use it?
 <!-- enter you answer in the space below -->
 ```
 

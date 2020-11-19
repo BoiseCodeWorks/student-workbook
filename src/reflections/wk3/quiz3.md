@@ -1,6 +1,6 @@
 # Application Architecture, MVC Design Pattern
 
-**1.** What are the Pillars of Object Oriented Programming (OOP)?
+**1.** What are the Pillars of Object Oriented Programming (`OOP`)?
 <!-- enter you answer in the space below -->
 ```
 
@@ -10,7 +10,7 @@
 ```
 
 ```
-**3.** What does the S stand for in the SOLID principles?
+**3.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
 
@@ -25,12 +25,12 @@
 ```
 
 ```
-**6.** What is the job of the `Controller` in the MVC?
+**6.** What is the job of the `Controller` in the `MVC`?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**7.** MCV pattern, or the model view controller pattern is an approach that allows you to separate concerns when building out your application? `True` or `False`?
+**7.** `MCV` pattern, or the model view controller pattern is an approach that allows you to separate concerns when building out your application? `True` or `False`?
 <!-- enter you answer in the space below -->
 ```
 
@@ -47,12 +47,12 @@ let staff = {
 ```
 
 ```
-**9.** What is the job of the `Service` in MVC?
+**9.** What is the job of the `Service` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**10.** What is the job of the `Model` in MVC?
+**10.** What is the job of the `Model` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
 

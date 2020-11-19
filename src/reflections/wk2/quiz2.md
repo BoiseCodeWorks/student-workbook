@@ -10,7 +10,7 @@
 ```
 
 ```
-**3.** What is the purpose of the SOLID principles?
+**3.** What is the purpose of the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
 
@@ -45,7 +45,7 @@ for (let i = 0; i < arr.length; _______) {
 ```
 
 ```
-**8.** Define the Dom:
+**8.** Define the `DOM`:
 <!-- enter you answer in the space below -->
 ```
 

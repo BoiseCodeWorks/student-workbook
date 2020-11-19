@@ -25,26 +25,28 @@
 ```
 
 ```
-**6.**A callback is a function that is to be executed ______ another function and its actions.  Fill in the Blank.
-<!-- enter you answer in the space below -->
-```
 
-```
-<!-- REVIEW Does this need to be updated to importing? -->
-**7.** Fill in the missing piece of this snippet of code.
+**6.** Fill in the missing piece of this snippet of code.
 ```js
-let mongoose = require ('______'); let Schema = ________.Schema;
+import ______ from "_______"
+let Schema = ________.Schema;
 ```
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**8.** What is the purpose of the `observer` pattern?
+**7.** What is middleware?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**9.** An HTTP `GET` and `DELETE` do not sad a ________, while an HTTP `POST` and `PUT` send a _______. Fill in the blanks.
+**8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
+<!-- enter you answer in the space below -->
+```
+
+```
+**9.** 
+Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 <!-- enter you answer in the space below -->
 ```
 

@@ -10,7 +10,7 @@
 ```
 
 ```
-**3.** What does the `L` represent in the `SOLID` principles?
+**3.** What does the `O` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
 

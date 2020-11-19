@@ -1,26 +1,26 @@
 # Understanding Persistent Relational Data
 
-**1.** When you create a Vue project, what is the command in your terminal?
+**1.** When using the Vue `cli` what is the command to initialize a project?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**2.** Once you cd into your Vue project, how would you get your project running on local host?
+**2.** Where can you find the scripts to startup you project on localhost?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**3.** In replacement for the for loop in vanilla JavaScript, what would you rather use while working in a project with Vue?
+**3.** What feature of Vue can be used to repeat an element using a collection of data?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**4.** the `\<template>\</template>` tags inside a Component in your Vue project have _____ children tags.  Fill in the Blank.
+**4.** What are the three tags that make up a Vue component?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**5.** Which `SOLID` principle state that every sub class can be used in place of its super/base class?
+**5.** What does the `L` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
 
@@ -30,19 +30,17 @@
 ```
 
 ```
-<!-- REVIEW is this a good appstate question -->
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-<!-- REVIEW this was a question about the vuex mutations -->
-**9.** What is the purpose of using `Services` in our Vue projects?
+**9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**10.** Which file in a Vue project is the entry point for the JavaScript in your project?
+**10.** Which file contains the root element of your Vue project?
 <!-- enter you answer in the space below -->
 ```
 
@@ -52,8 +50,7 @@
 ```
 
 ```
-<!-- REVIEW asked for name of design pattern for vuex -->
-**12.** What is the name of the design pattern used to watch for changes on our `AppState`?
+**12.** What is the Vue method used to create watchable objects such as `state` or `AppState`?
 <!-- enter you answer in the space below -->
 ```
 

@@ -1,48 +1,53 @@
-<!-- REVIEW this whole quiz -->
 # C# Fundamentals
 
 
-**1.** What is the purpose of namespace?
+**1.** What is the purpose of a `namespace`?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**2.** What is a class in C#?
+**2.** What is the difference between a `class` and a `struct`?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**3.** How do you create an instance of a class in C#?
+**3.** What is the method that returns an instance of a class, yet it has no return type?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**4.** What are 5 C# data types?
+## Example 1
+```c#
+abstract class Car
+{
+  ...
+  public virtual string Start()
+  {
+    return "Vroooom";
+  }
+}
+```
+**5.** In the example what is the access modifier of the `Start()` method?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**5.** When creating a new method, what is "A" called?      A.public B.void C.PrintBooks(D.string E.printable)?
+**6.** In the example what is `string` an indication of?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**6.** When creating a new method, what is "B" called?      A.public B.void C.PrintBooks(D.string E.printable)?
+**7.** In the example what is `abstract` preventing?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**7.** When creating a new method, what is "C" called?      A.public B.void C.PrintBooks(D.string E.printable)?
+**8.** In the example what is the purpose of `virtual`?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**8.** When creating a new method, what is "D" called?      A.public B.void C.PrintBooks(D.string E.printable)?
-<!-- enter you answer in the space below -->
-```
-
-```
-**9.** When creating a new method, what is "E" called?      A.public B.void C.PrintBooks(D.string E.printable)?
+**9.** Name four access modifiers:
 <!-- enter you answer in the space below -->
 ```
 

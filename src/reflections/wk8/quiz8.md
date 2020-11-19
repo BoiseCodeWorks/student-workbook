@@ -5,22 +5,22 @@
 ```
 
 ``` 
-**2.** At what level of your project do you need package.json?
+**2.** At what level of your project do you need package.json when deploying your application? Why?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**3.** What is the line you need to put into node to insure that your client is loaded properly?
+**3.** What command will ensure that your Vue code is compiled properly for deployment?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**4.** How must you define your port variable to heroku spins it up properly?
+**4.** _______ are used to provide your application with specific data based on it's environment. For example: connections strings, private keys or port. Fill in the blank.
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**5.** What command can you use to get the console logs of your heroku app?
+**5.** What are the two ways to view the logs from your Heroku app.
 <!-- enter you answer in the space below -->
 ```
 
@@ -30,17 +30,17 @@
 ```
 
 ```
-**7.** Environment variables help programs know what ______ to install files in, where to store _____ files, and where to find user ______ settings. Fill in the blanks.
+**7.** Why is branching important to version control?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**8.** Why is branching important to version control?
+**8.** When should code review happen?
 <!-- enter you answer in the space below -->
 ```
 
 ```
-**9.** When should code review happen?
+**9.** What is the term used to define combining two branches?
 <!-- enter you answer in the space below -->
 ```
 

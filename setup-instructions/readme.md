@@ -46,3 +46,4 @@ To successfully deploy this project for your own benefit please follow the provi
     - Add a blog post
     - Commit and push then new post
     - test your live site by going to `https://<username>.github.io/blog`
+ > This deploy goes through a build process so it may take a few minutes for the changes to be reflected on the live page

@@ -43,7 +43,7 @@
 
 <script>
 export default {
-  name: "TestComp"
+  name: "Welcome"
 }
 </script>
 

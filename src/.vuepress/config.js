@@ -3,44 +3,29 @@ const path = require("path");
 const { config } = require("vuepress-theme-hope");
 
 
-module.exports = config({
-  base: "/fs-student-workbook/",
-  /**
-   * Ref：https://v1.vuepress.vuejs.org/config/#title
-   */
-  title: 'Codeworks FS Student Workbook',
-  /**
-   * Ref：https://v1.vuepress.vuejs.org/config/#description
-   */
-  description: "Workbook for Codeworks Immersive FullStack Students",
+const GITHUB_USERNAME = 'REPLACE_ME' // TODO 
 
-  /**
-   * Extra tags to be injected to the page HTML `<head>`
-   *
-   * ref：https://v1.vuepress.vuejs.org/config/#head
-   */
+
+module.exports = config({
+  base: "/blog/",
+  title: 'Codeworks Student Learning Blog',
+  description: "My thoughts notes and reflections while attending Codeworks Immersive FullStack Program",
   head: [
     ['meta', { name: 'theme-color', content: '#3093d9' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    ['meta', { name: 'application-name', content: 'CodeWorks FS Student Workbook' }],
+    ['meta', { name: 'application-name', content: `${GITHUB_USERNAME} Learning Blog` }],
     ['meta', { name: 'ROBOTS', content: 'FOLLOW' }],
     ['meta', { name: 'og:image', content: 'https://bcw.blob.core.windows.net/public/img/8600856373152463' }],
     ['meta', { name: 'og:type', content: 'article' }],
-    ['meta', { name: 'og:url', content: 'https://codeworksacademy.com/fs-student-workbook' }],
+    ['meta', { name: 'og:url', content: `https://${GITHUB_USERNAME}.github.io/blog` }],
     ['meta', { name: 'og:title', content: 'Learn to Code. Develop Your Future' }],
     ['meta', { name: 'og:locale', content: 'en_US' }]
   ],
-
-  /**
-   * Theme configuration, here is the default theme configuration for VuePress.
-   *
-   * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
-   */
   themeConfig: {
     logo: 'https://bcw.blob.core.windows.net/public/img/2900578872732848',
     editLinks: true,
-    repo: 'BoiseCodeWorks/codeworks-fs-student-workbook',
+    repo: `${GITHUB_USERNAME}/student-workbook`,
     repoLabel: 'Contribute!',
     docsDir: 'src',
     docsBranch: 'main',
@@ -50,8 +35,7 @@ module.exports = config({
       red: "#f26d6d",
       green: "#00ffdc",
       orange: "#fb9b5f",
-      purple: "#8e44ad",
-      banana: "#ffe135"
+      purple: "#8e44ad"
     },
     nav: [
       {
@@ -66,13 +50,13 @@ module.exports = config({
     sidebar: {
       '/reflections/': [
         ...getSideBar('reflections', 'Student Reflections'),
-        ...getSideBar('reflections/wk1', 'Building Blocks Of Web Development'),
-        ...getSideBar('reflections/wk2', 'Intro To Js'),
+        ...getSideBar('reflections/wk1', 'Building Blocks of Web Development'),
+        ...getSideBar('reflections/wk2', 'Intro to Js'),
         ...getSideBar('reflections/wk3', 'Advancing with JS'),
         ...getSideBar('reflections/wk4', 'Asynchronous Code'),
         ...getSideBar('reflections/wk5', 'Servers with Node/Express'),
         ...getSideBar('reflections/wk6', 'Frontend Frameworks with Vue3'),
-        ...getSideBar('reflections/wk8', 'Working In a Professional Environment'),
+        ...getSideBar('reflections/wk8', 'Working in a Professional Environment'),
         ...getSideBar('reflections/wk10', 'Foundations of C#'),
         ...getSideBar('reflections/wk11', 'Dotnet WebApi\'s')
       ]
@@ -83,7 +67,7 @@ module.exports = config({
   },
   plugins: [
     '@vuepress/plugin-back-to-top',
-    ["@mr-hope/sitemap", { hostname: 'https://codeworksacademy.com/fs-student-guide' }],
+    ["@mr-hope/sitemap", { hostname: `https://${GITHUB_USERNAME}.github.io/blog` }],
   ]
 })
 

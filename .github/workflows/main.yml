@@ -18,9 +18,9 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
-          GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
-          REPOSITORY_NAME: codeworksacademy/fs-student-workbook 
-          BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: src/.vuepress/dist # The folder the action should deploy.
-          CLEAN: true # Automatically remove deleted files from the deploy branch
-          SINGLE_COMMIT: true # Removes git history on deployed branch
+          GITHUB_TOKEN: ${{ secrets.DEPLOY_KEY }}
+          REPOSITORY_NAME: ADD_USERNAME_HERE/blog # TODO 
+          BRANCH: gh-pages 
+          FOLDER: src/.vuepress/dist 
+          CLEAN: true 
+          SINGLE_COMMIT: true 

@@ -23,7 +23,7 @@ To successfully deploy this project for your own benefit please follow the provi
     - Star and Fork this Project
     - ![fork](./fork.jpg)
 6. Create a Personal Access Token
-    - Go to your `account settings -> developer settings -> Personal Access Token` 
+    - Go to your `settings -> developer settings -> Personal Access Token` 
     - then create a new Personal Access Token called `DEPLOY_KEY`
     - ![account-settings](./account-settings.jpg)
     - ![pat](./pat.jpg)

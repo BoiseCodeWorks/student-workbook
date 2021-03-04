@@ -23,6 +23,7 @@ module.exports = config({
     ['meta', { name: 'og:locale', content: 'en_US' }]
   ],
   themeConfig: {
+    pwa: false,
     logo: 'https://bcw.blob.core.windows.net/public/img/2900578872732848',
     editLinks: true,
     repo: `${GITHUB_USERNAME}/student-workbook`,

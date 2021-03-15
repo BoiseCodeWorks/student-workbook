@@ -1,4 +1,4 @@
-![codeworks](https://bcw.blob.core.windows.net/public/img/8600856373152463)
+<img src="https://bcw.blob.core.windows.net/public/img/8600856373152463" height="200" />
 
 # CodeWorks Student Workbook
 

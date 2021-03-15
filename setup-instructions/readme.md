@@ -42,7 +42,10 @@ To successfully deploy this project for your own benefit please follow the provi
 9. Update 📁 `src\.vuepress\config.js`
     - update the line with the `# todo` to your github username
     - ![config](./config.jpg)
-10. Test it
+10. Enable Actions
+    - Enable Actions 
+    - ![enable-actions](./enable-actions.png)     
+12. Test it
     - Add a blog post
     - Commit and push then new post
     - test your live site by going to `https://<username>.github.io/blog`

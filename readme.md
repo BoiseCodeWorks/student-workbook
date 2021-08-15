@@ -39,15 +39,7 @@ a line break uses three hyphens
 this is an img: ![codeworks-logo](https://bcw.blob.core.windows.net/public/img/8600856373152463)
 
 
-*itallics*, **bold**, ***bold-itallics*** 
-
-Here is a table
-
-|  id  |  name  |  phone         |
-|------|--------|----------------|
-|  10  |  Jim   |  111-222-3333  |
-|  10  |  Bob   |  222-333-4444  |
-|  10  |  Joe   |  333-444-5555  |
+*itallics*, **bold**, ***bold-itallics***, `keyword` 
 
 
 <section>

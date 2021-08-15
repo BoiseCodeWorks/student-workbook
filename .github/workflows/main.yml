@@ -1,26 +1,35 @@
-name: Build and Deploy
+# This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+
+name: deploy
 on:
   push:
-    branches: main
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout 🛎️
-        uses: actions/checkout@v2.3.1
-        with:
-          persist-credentials: false
+    branches: [ main ]
 
-      - name: Install and Build 🔧
-        run: |
-          npm install
-          npm run build
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@3.7.1
-        with:
-          GITHUB_TOKEN: ${{ secrets.DEPLOY_KEY }}
-          REPOSITORY_NAME: ADD_USERNAME_HERE/blog # TODO 
-          BRANCH: gh-pages 
-          FOLDER: src/.vuepress/dist 
-          CLEAN: true 
-          SINGLE_COMMIT: true 
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14.x]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - uses: bahmutov/npm-install@v1
+    - run: npm install @vue/cli@latest
+    - name: Run build task...
+      run: npm run build
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v7
+      with:
+        author_name: {{ghname}}
+        author_email: {{ghemail}}
+        message: 'deploy'
+        branch: gh-pages
+        add: './dist'

@@ -3,7 +3,7 @@ const path = require("path");
 const { config } = require("vuepress-theme-hope");
 
 
-const GITHUB_USERNAME = 'REPLACE_ME' // TODO 
+const GITHUB_USERNAME = '{{ghname}}' // TODO 
 
 
 module.exports = config({
@@ -31,13 +31,6 @@ module.exports = config({
     docsDir: 'src',
     docsBranch: 'main',
     darkmode: "switch",
-    themeColor: {
-      blue: "#2196f3",
-      red: "#f26d6d",
-      green: "#00ffdc",
-      orange: "#fb9b5f",
-      purple: "#8e44ad"
-    },
     nav: [
       {
         text: 'Reflections',
